@@ -6,7 +6,7 @@ A curated list of the publically available/announced AI chat assistants.
 |------------------|-------------|-------------------|-------------------------------------------------------|-------|---------|
 | ChatGPT          | OpenAI      | Yes               | https://chat.openai.com/                              | Free  | GPT-3.5 |
 | YouChat          | You.com     | Yes               | https://you.com (integrated)                          | Free  | -       | 
-| Jasper Chat      | Jasper AI   | Yes               | https://www.jasper.ai/chat                            | Free  | -       |
+| Jasper Chat      | Jasper AI   | Yes               | https://www.jasper.ai/chat                            | Free  | GPT-3.5 |
 | Perplexity Ask   | Perplexity  | Yes               | https://www.perplexity.ai/                            | Free  | GPT-3.5 |
 | Poe              | Quora       | Waitlisted Access | https://poe.quora.com/                                | N/A   | GPT-3.5 |
 | Ghostwriter Chat | Replit      | Waitlisted Access | https://twitter.com/amasad/status/1606139822837338112 | N/A   | -       |
